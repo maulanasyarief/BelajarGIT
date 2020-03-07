@@ -1,1 +1,3 @@
 isi file app
+
+penamahan fungsi baru created QRcode 
